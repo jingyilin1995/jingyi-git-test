@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
-  <TalendProperties:Project xmi:id="_adzEMXRGEeqWJ8I27yMGcw" label="JINGYI_TMC_GITHUB" language="java" technicalLabel="JINGYI_TMC_GITHUB" author="_adzEMnRGEeqWJ8I27yMGcw" productVersion="Talend Cloud Real-Time Big Data Platform-7.2.1.20190813_1059_patch" url="{&quot;location&quot;:&quot;https://github.com/jingyilin1995/jingyi-git-test.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" bigData="false">
+  <TalendProperties:Project xmi:id="_adzEMXRGEeqWJ8I27yMGcw" label="JINGYI_TMC_GITHUB" language="java" technicalLabel="JINGYI_TMC_GITHUB" author="_adzEMnRGEeqWJ8I27yMGcw" productVersion="Talend Cloud Real-Time Big Data Platform-7.2.1.20190813_1059_patch" url="{&quot;location&quot;:&quot;https://github.com/jingyilin1995/jingyi-git-test.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" itemsRelationVersion="1.3" bigData="false">
     <migrationTask xmi:id="_amlMwHRGEeqWJ8I27yMGcw" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
   </TalendProperties:Project>
   <TalendProperties:User xmi:id="_adzEMnRGEeqWJ8I27yMGcw" login="jlin@support.talend.com" firstName="Jingyi" lastName="Lin" type="DQ"/>
